@@ -11,7 +11,7 @@ Focusing on temperature data for the months of June and December, our work will 
 Results:
 
 
-Below are two charts that showing summary statistics for the months of June and December.
+Below are two charts showing summary statistics for the months of June and December.
 
 ![June](https://user-images.githubusercontent.com/100803302/166123314-4324626b-1d6c-4eec-8c93-078b374a622e.png)
 
@@ -21,8 +21,7 @@ Below are two charts that showing summary statistics for the months of June and 
 •	When we compare the two months, we can see there is a difference of approximately 4 degrees in average temperature.  
 	June’s average temperature is 75 degrees and December’s average temperature is 71 degrees.  
 •	When we compare the two months based on the high temperature, again, there is little difference.  The difference is 2 degrees.
-•	The greatest temperature variance is seen in the low temperature comparison.  
-	In June the low is 64 degrees while in December the low is 56 degrees.
+•	The greatest temperature variance is seen in the low temperature comparison. In June the low is 64 degrees while in December the low is 56 degrees.
 
 
 Summary:
