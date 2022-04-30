@@ -20,7 +20,9 @@ Below are two charts showing summary statistics for the months of June and Decem
 
 •	When we compare the two months, we can see there is a difference of approximately 4 degrees in average temperature.  
 	June’s average temperature is 75 degrees and December’s average temperature is 71 degrees.  
+	
 •	When we compare the two months based on the high temperature, again, there is little difference.  The difference is 2 degrees.
+
 •	The greatest temperature variance is seen in the low temperature comparison. In June the low is 64 degrees while in December the low is 56 degrees.
 
 
